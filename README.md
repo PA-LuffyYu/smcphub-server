@@ -7,6 +7,10 @@
 
 SMCP Server is a simple and easy-to-use client for smcphub.com. It provides a simple API to interact with all the MCP Servers hosted in the smcphub.com.
 
+<a href="https://glama.ai/mcp/servers/@PA-LuffyYu/smcphub-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@PA-LuffyYu/smcphub-server/badge" alt="SMCPHUB Server MCP server" />
+</a>
+
 SMCP hub is a platform that allows you to find the MCP servers which users published, or also publish your MCP Servers and get them listed and hosted on the website.
 
 ### 🏠 [Homepage](https://smcphub.com)

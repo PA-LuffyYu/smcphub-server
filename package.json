@@ -1,0 +1,30 @@
+{
+  "name": "@smcphub/server",
+  "version": "0.0.36",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "smcphub-server": "./index.js"
+  },
+  "keywords": [
+    "mcp",
+    "mcp server",
+    "smcphub"
+  ],
+  "author": "SMCPHUB",
+  "homepage": "https://smcphub.com",
+  "license": "MIT",
+  "description": "MCP Server of SMCPHUB",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.8.0",
+    "dotenv": "^16.4.7",
+    "json-schema-to-zod": "^2.6.1",
+    "string-strip-html": "^13.4.12"
+  }
+}
